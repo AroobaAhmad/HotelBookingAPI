@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Azure Training\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\jwttoken\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\jwttoken\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\services\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\services\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\services\\handlerservices\\commandhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\services\\handlerservices\\commandhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\services\\handlerservices\\queryhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\services\\handlerservices\\queryhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\services\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\services\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\services\\cosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\services\\cosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|d:\\azure training\\webapplication1\\webapplication1\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928A04-9043-4687-8445-C44BC586F81C}|WebApplication1\\HotelBookingAPI.csproj|solutionrelative:webapplication1\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:05:19.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:20:51.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueryHandlerService.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\HandlerServices\\QueryHandlerService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\HandlerServices\\QueryHandlerService.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\HandlerServices\\QueryHandlerService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\HandlerServices\\QueryHandlerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:06:51.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandHandlerService.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\HandlerServices\\CommandHandlerService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\HandlerServices\\CommandHandlerService.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\HandlerServices\\CommandHandlerService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\HandlerServices\\CommandHandlerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:47:36.912Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:18:06.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:18:18.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AppDbContext.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:10:06.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Customer.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Models\\Customer.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:20:42.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:11:40.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CosmosDB.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\CosmosDB.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\CosmosDB.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\CosmosDB.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\CosmosDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:19:53.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\CosmosDbService.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\CosmosDbService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\CosmosDbService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:21:24.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICosmosDBService.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\ICosmosDBService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ICosmosDBService.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Services\\ICosmosDBService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ICosmosDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:41:20.302Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Commands\\Command.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Commands\\Command.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Commands\\Command.cs",
+              "RelativeToolTip": "WebApplication1\\Commands\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:46:05.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:11:22.847Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:27:38.411Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Login.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Models\\Login.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:51:19.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\JwtToken\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\JwtToken\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\JwtToken\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "WebApplication1\\JwtToken\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:29:33.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T06:55:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T06:55:00.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Azure Training\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Azure Training\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T10:30:39.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
