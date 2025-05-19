@@ -30,6 +30,7 @@ namespace HotelBookingAPI
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
             var secretKey = builder.Configuration["JwtSettings:Secret"] ?? "ThisIsASecretKeyForJwtTokenGeneration";
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IGenericRepository<Customer>, GenericRepository<Customer>>();
@@ -71,7 +72,7 @@ namespace HotelBookingAPI
 
             app.UseRouting();
             app.UseHttpsRedirection();
-            app.UseAuthentication();
+            //app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllers();

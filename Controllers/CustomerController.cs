@@ -40,7 +40,7 @@ namespace HotelBookingAPI.Controllers
                 return BadRequest("Failed to add the customer to the database.");
             }
         }
-        [HttpGet]
+        [HttpGet("test")]
         public async Task<ActionResult<IEnumerable<Customer>>> GetCustomers([FromQuery] string? id, [FromQuery] string? category)
         {
             if (!string.IsNullOrWhiteSpace(id))
